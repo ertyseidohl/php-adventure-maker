@@ -7,9 +7,9 @@
 
 	Config::set('database', array(
 		'host' => 'localhost',
-		'username' => 'roguelike',
+		'username' => 'adventure',
 		'password' => 'DCvafjGzKQcSqJCS',
-		'database' => 'roguelike',
+		'database' => 'adventure',
 		'prefix' => '',
 		'driver' => 'mysql'
 	));
